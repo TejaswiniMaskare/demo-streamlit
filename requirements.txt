@@ -2,3 +2,4 @@ streamlit
 base64
 json
 datetime
+jwt
